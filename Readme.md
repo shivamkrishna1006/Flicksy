@@ -1,4 +1,4 @@
-# STREAMLY – YouTube-like Video Hosting Platform 🎥
+# Flicksy – YouTube-like Video Hosting Platform 🎥
 
 A robust and scalable backend application built using **Node.js**, **Express.js**, and **MongoDB**.  
 This project powers a full-featured video hosting platform with essential **YouTube-like functionalities** such as video uploads, streaming, user authentication, comments, likes, subscriptions, and more.

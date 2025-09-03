@@ -60,22 +60,6 @@ This project powers a full-featured video hosting platform with essential **YouT
 - **Environment Management:** dotenv  
 - **Formatting:** Prettier  
 
----
-
-## 📂 Project Structure
-
-practice_backend/
-│── controllers/ # Business logic for routes
-│── models/ # Mongoose schemas (User, Video, Comment, etc.)
-│── routes/ # Route definitions
-│── middlewares/ # Auth & validation middleware
-│── utils/ # Helper utilities (token generation, etc.)
-│── uploads/ # Temp storage for videos
-│── config/ # Database & cloud configs
-│── server.js # Entry point
-│── .env # Environment variables
-│── package.json # Dependencies
-
 
 ---
 
